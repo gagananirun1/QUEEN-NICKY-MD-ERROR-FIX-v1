@@ -11,8 +11,8 @@
       "value": "MR DUMIDU"
   },
   "ALIVE_MESSAGE": {
-    "description": "Alive message for bot",
-     "required" :false
+    "description": "hi",
+     "required" :true
     },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
